@@ -42,7 +42,7 @@
 | My Galgame   | https://www.ttloli.com/                | [地址发布页](https://www.mmgal.com/)                                                            | -          |
 | NekoGAL      | https://www.nekogal.com/               | -                                                                                          | 需登录 \| 需回复 |
 | Nysource     | https://res.nyne.dev/                  | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                                     | -          |
-| SakuGAL | https://sakugal.com/ | - | 免费下载 \| 无需注册 |
+| SakuGAL | https://sakugal.com/ | - | 需回复 | 无需注册 |
 | Shionlib     | https://shionlib.com                   | [GitHub](https://github.com/Ringyuki/shionlib-frontend)                                    | -          |
 | Sukebei      | https://sukebei.nyaa.si/               | -                                                                                          | 磁链为主       |
 | TouchGal     | https://www.touchgal.us                | [地址发布页](https://gal.red/) \| [GitHub](https://github.com/KUN1007/kun-touchgal-next)        | -          |
