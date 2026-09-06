@@ -42,6 +42,7 @@
 | My Galgame   | https://www.ttloli.com/                | [地址发布页](https://www.mmgal.com/)                                                            | -          |
 | NekoGAL      | https://www.nekogal.com/               | -                                                                                          | 需登录 \| 需回复 |
 | Nysource     | https://res.nyne.dev/                  | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                                     | -          |
+| SakuGAL | https://sakugal.com/ | - | 免费下载 \| 无需注册 |
 | Shionlib     | https://shionlib.com                   | [GitHub](https://github.com/Ringyuki/shionlib-frontend)                                    | -          |
 | Sukebei      | https://sukebei.nyaa.si/               | -                                                                                          | 磁链为主       |
 | TouchGal     | https://www.touchgal.us                | [地址发布页](https://gal.red/) \| [GitHub](https://github.com/KUN1007/kun-touchgal-next)        | -          |
@@ -59,7 +60,6 @@
 | 猫猫网盘         | https://catcat.cloud/                  | [GitHub](https://github.com/Yuri-NagaSaki)                                                 | -          |
 | 喵源领域         | https://www.nyantaku.com/              | [地址发布页](https://www.acgn.im/) \| [网盘页面](https://www.nullcloud.top/)                        | 需登录        |
 | 魔皇地狱         | https://pan.mhdy.net                   | [地址发布页](https://www.mohuangdiyu.com/) \| [GitHub](https://github.com/mhdy2233)             | -          |
-| 绮梦ACG        | https://game.acgs.one/                 | [地址发布页](https://acgs.one/)                                                                 | 需回复        |
 | 青桔网          | https://www.qingju.org/                | [地址发布页](https://qingju.org/) \| [GitHub](https://github.com/qingjuacg/qingju/)             | -          |
 | 绅士天堂         | https://www.chgal.com/                 | -                                                                                          | 需登录        |
 | 四叶草与雏菊的GAL小站 | https://g.杏铃.top                       | -                                                                                          | 需登录 \| 需回复 |
